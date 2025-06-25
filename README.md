@@ -4,15 +4,6 @@
 
 Скриншот: <img width="1425" alt="image" src="https://github.com/user-attachments/assets/15460484-961b-488e-82e7-b9f080a7cb0d" />
 
-
-▌ Структура проекта
-
-- src/: Исходный код проекта.
-  
-- public/: Статические файлы.
-  
-- README.md: Этот файл.
-
 ▌ Технологии
 
 - HTML/CSS: Для создания интерфейсов.
